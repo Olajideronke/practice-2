@@ -1,0 +1,15 @@
+.container{
+    width: 300px;
+    color: brown;
+    margin: auto;
+}
+.form-container{
+    width: 250px;
+    
+}
+input, textarea{
+margin-top: 10px;
+}
+label{
+    margin-top: -5px;
+}
